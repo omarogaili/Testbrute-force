@@ -1,0 +1,14 @@
+C:\Users\ogail\Desktop\OmarLab3Ahmed_Ahmed\Brute_Force_Lab3\Brute_Force_Lab3\obj\Debug\net8.0\Brute_Force_Lab3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ogail\Desktop\OmarLab3Ahmed_Ahmed\Brute_Force_Lab3\Brute_Force_Lab3\obj\Debug\net8.0\Brute_Force_Lab3.AssemblyInfoInputs.cache
+C:\Users\ogail\Desktop\OmarLab3Ahmed_Ahmed\Brute_Force_Lab3\Brute_Force_Lab3\obj\Debug\net8.0\Brute_Force_Lab3.AssemblyInfo.cs
+C:\Users\ogail\Desktop\OmarLab3Ahmed_Ahmed\Brute_Force_Lab3\Brute_Force_Lab3\obj\Debug\net8.0\Brute_Force_Lab3.csproj.CoreCompileInputs.cache
+C:\Users\ogail\Desktop\OmarLab3Ahmed_Ahmed\Brute_Force_Lab3\Brute_Force_Lab3\bin\Debug\net8.0\Brute_Force_Lab3.exe
+C:\Users\ogail\Desktop\OmarLab3Ahmed_Ahmed\Brute_Force_Lab3\Brute_Force_Lab3\bin\Debug\net8.0\Brute_Force_Lab3.deps.json
+C:\Users\ogail\Desktop\OmarLab3Ahmed_Ahmed\Brute_Force_Lab3\Brute_Force_Lab3\bin\Debug\net8.0\Brute_Force_Lab3.runtimeconfig.json
+C:\Users\ogail\Desktop\OmarLab3Ahmed_Ahmed\Brute_Force_Lab3\Brute_Force_Lab3\bin\Debug\net8.0\Brute_Force_Lab3.dll
+C:\Users\ogail\Desktop\OmarLab3Ahmed_Ahmed\Brute_Force_Lab3\Brute_Force_Lab3\bin\Debug\net8.0\Brute_Force_Lab3.pdb
+C:\Users\ogail\Desktop\OmarLab3Ahmed_Ahmed\Brute_Force_Lab3\Brute_Force_Lab3\obj\Debug\net8.0\Brute_Force_Lab3.dll
+C:\Users\ogail\Desktop\OmarLab3Ahmed_Ahmed\Brute_Force_Lab3\Brute_Force_Lab3\obj\Debug\net8.0\refint\Brute_Force_Lab3.dll
+C:\Users\ogail\Desktop\OmarLab3Ahmed_Ahmed\Brute_Force_Lab3\Brute_Force_Lab3\obj\Debug\net8.0\Brute_Force_Lab3.pdb
+C:\Users\ogail\Desktop\OmarLab3Ahmed_Ahmed\Brute_Force_Lab3\Brute_Force_Lab3\obj\Debug\net8.0\Brute_Force_Lab3.genruntimeconfig.cache
+C:\Users\ogail\Desktop\OmarLab3Ahmed_Ahmed\Brute_Force_Lab3\Brute_Force_Lab3\obj\Debug\net8.0\ref\Brute_Force_Lab3.dll

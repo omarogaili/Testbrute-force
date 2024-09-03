@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ogail\\Desktop\\OmarLab3Ahmed_Ahmed\\Brute_Force_Lab3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{83F436DA-126A-488C-9F4E-A43866ECF42E}|TestBruteForce\\TestBruteForce.csproj|c:\\users\\ogail\\desktop\\omarlab3ahmed_ahmed\\brute_force_lab3\\testbruteforce\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83F436DA-126A-488C-9F4E-A43866ECF42E}|TestBruteForce\\TestBruteForce.csproj|solutionrelative:testbruteforce\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{693A991E-EF94-42B9-850B-DBB5BF2C0CDB}|Brute_Force_Lab3\\Brute_Force_Lab3.csproj|c:\\users\\ogail\\desktop\\omarlab3ahmed_ahmed\\brute_force_lab3\\brute_force_lab3\\bruteforceattacksimulator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{693A991E-EF94-42B9-850B-DBB5BF2C0CDB}|Brute_Force_Lab3\\Brute_Force_Lab3.csproj|solutionrelative:brute_force_lab3\\bruteforceattacksimulator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{693A991E-EF94-42B9-850B-DBB5BF2C0CDB}|Brute_Force_Lab3\\Brute_Force_Lab3.csproj|c:\\users\\ogail\\desktop\\omarlab3ahmed_ahmed\\brute_force_lab3\\brute_force_lab3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{693A991E-EF94-42B9-850B-DBB5BF2C0CDB}|Brute_Force_Lab3\\Brute_Force_Lab3.csproj|solutionrelative:brute_force_lab3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83F436DA-126A-488C-9F4E-A43866ECF42E}|TestBruteForce\\TestBruteForce.csproj|c:\\users\\ogail\\desktop\\omarlab3ahmed_ahmed\\brute_force_lab3\\testbruteforce\\testbruteforce.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{83F436DA-126A-488C-9F4E-A43866ECF42E}|TestBruteForce\\TestBruteForce.csproj|solutionrelative:testbruteforce\\testbruteforce.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 12,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TestBruteForce.csproj",
+              "DocumentMoniker": "C:\\Users\\ogail\\Desktop\\OmarLab3Ahmed_Ahmed\\Brute_Force_Lab3\\TestBruteForce\\TestBruteForce.csproj",
+              "RelativeDocumentMoniker": "TestBruteForce\\TestBruteForce.csproj",
+              "ToolTip": "C:\\Users\\ogail\\Desktop\\OmarLab3Ahmed_Ahmed\\Brute_Force_Lab3\\TestBruteForce\\TestBruteForce.csproj",
+              "RelativeToolTip": "TestBruteForce\\TestBruteForce.csproj",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABAAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-03T08:45:27.131Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\ogail\\Desktop\\OmarLab3Ahmed_Ahmed\\Brute_Force_Lab3\\TestBruteForce\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "TestBruteForce\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\ogail\\Desktop\\OmarLab3Ahmed_Ahmed\\Brute_Force_Lab3\\TestBruteForce\\UnitTest1.cs",
+              "RelativeToolTip": "TestBruteForce\\UnitTest1.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAuwBwAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T08:38:52.617Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BruteForceAttackSimulator.cs",
+              "DocumentMoniker": "C:\\Users\\ogail\\Desktop\\OmarLab3Ahmed_Ahmed\\Brute_Force_Lab3\\Brute_Force_Lab3\\BruteForceAttackSimulator.cs",
+              "RelativeDocumentMoniker": "Brute_Force_Lab3\\BruteForceAttackSimulator.cs",
+              "ToolTip": "C:\\Users\\ogail\\Desktop\\OmarLab3Ahmed_Ahmed\\Brute_Force_Lab3\\Brute_Force_Lab3\\BruteForceAttackSimulator.cs",
+              "RelativeToolTip": "Brute_Force_Lab3\\BruteForceAttackSimulator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD4AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T06:34:20.425Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ogail\\Desktop\\OmarLab3Ahmed_Ahmed\\Brute_Force_Lab3\\Brute_Force_Lab3\\Program.cs",
+              "RelativeDocumentMoniker": "Brute_Force_Lab3\\Program.cs",
+              "ToolTip": "C:\\Users\\ogail\\Desktop\\OmarLab3Ahmed_Ahmed\\Brute_Force_Lab3\\Brute_Force_Lab3\\Program.cs",
+              "RelativeToolTip": "Brute_Force_Lab3\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T06:31:17.543Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
